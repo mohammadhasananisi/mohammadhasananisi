@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **.....**
 
-- 🌱 I’m currently learning **AI - go lang**
+- 🌱 I’m currently learning **AI - go**
 
 - 👨‍💻 All of my projects are available at [https://mohammadhasananisi.ir](https://mohammadhasananisi.ir)
 
